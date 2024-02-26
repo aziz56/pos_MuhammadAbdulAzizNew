@@ -1,4 +1,4 @@
-﻿Public Interface Transaksi
+﻿Public Interface ITransaksi
     Function ReservasiMeja()
     Function TransaksiPenjualan()
 
